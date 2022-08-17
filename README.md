@@ -18,4 +18,6 @@ This challenge was used to gauge are knowledge from the class and see how much w
 
 ## Screenshot
 
-
+<img src="./assets/images/Website-Screenshot1.png" />
+<img src="./assets/images/Website-Screenshot2.png" />
+<img src="./assets/images/Website-Screenshot3.png" />
