@@ -9,8 +9,8 @@ In this challenge, we were giving a website with html and css already provided. 
 
 ## Installation
 
-The Url for the Webpage - 
-The Url for the Repository - https://github.com/A-Speece/Week_1_challenge.git
+<p>The Url for the Webpage - </P>
+<p>The Url for the Repository - https://github.com/A-Speece/Week_1_challenge.git </p>
 
 ## Usage
 
