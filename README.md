@@ -18,6 +18,6 @@ This challenge was used to gauge are knowledge from the class and see how much w
 
 ## Screenshot
 
-![Website-Screenshot1.png](./Assets/images/Website-Screenshot1.png)
-![Website-Screenshot2.png](./Assets/images/Website-Screenshot2.png)
-![Website-Screenshot2.png](./Assets/images/Website-Screenshot3.png)
+![Website-Screenshot1.png](./assets/images/Website-Screenshot1.png)
+![Website-Screenshot2.png](./assets/images/Website-Screenshot2.png)
+![Website-Screenshot2.png](./assets/images/Website-Screenshot3.png)
