@@ -9,8 +9,8 @@ In this challenge, we were giving a website with html and css already provided. 
 
 ## Installation
 
-<p>The Url for the Webpage - https://a-speece.github.io/Week_1_challenge/ </P>
-<p>The Url for the Repository - https://github.com/A-Speece/Week_1_challenge.git </p>
+The Url for the Webpage - https://a-speece.github.io/Week_1_challenge/ 
+The Url for the Repository - https://github.com/A-Speece/Week_1_challenge.git 
 
 ## Usage
 
@@ -18,6 +18,6 @@ This challenge was used to gauge are knowledge from the class and see how much w
 
 ## Screenshot
 
-<img src="./assets/images/Website-Screenshot1.png" />
-<img src="./assets/images/Website-Screenshot2.png" />
-<img src="./assets/images/Website-Screenshot3.png" />
+![Website-Screenshot1.png](./Assets/images/Website-Screenshot1.png)
+![Website-Screenshot2.png](./Assets/images/Website-Screenshot2.png)
+![Website-Screenshot2.png](./Assets/images/Website-Screenshot3.png)
